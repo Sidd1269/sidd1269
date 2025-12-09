@@ -1,7 +1,5 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/kV2f2lD.png" alt="Siddhesh Banner" width="100%" />
-</p>
+
 
 <!-- SMALL GIF UNDER BANNER -->
 <p align="center">
