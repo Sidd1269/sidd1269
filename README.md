@@ -64,8 +64,8 @@ Coming soon…
 
 ## 📫 Connect With Me  
 - **LinkedIn:** https://www.linkedin.com/in/siddhesh-ambatkar/ 
-- **Email:** your address here  
-- **Portfolio (optional):** your website link  
+- **Email:** siddhesh.amb@gmail.com   
+
 
 ---
 
