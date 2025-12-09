@@ -1,10 +1,5 @@
-<!-- HEADER BANNER -->
 
 
-<!-- SMALL GIF UNDER BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" />
-</p>
 
 <h1 align="center">Hi, I'm Siddhesh Ambatkar 👋</h1>
 <p align="center">
